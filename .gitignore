@@ -40,8 +40,7 @@ out/
 .vscode/
 
 
-### 내가 추가한거 ###
+### Backend ###
 .DS_Store
 backend/src/main/resources/application-any.properties
-
 
